@@ -1,0 +1,9 @@
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\bin\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.deps.json
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\bin\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.dll
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\bin\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.pdb
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\obj\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.csprojAssemblyReference.cache
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\obj\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.AssemblyInfoInputs.cache
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\obj\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.AssemblyInfo.cs
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\obj\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\obj\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.dll
+C:\Users\Beto Brandão\Google Drive\Desenvolvimento\Projetos\BlazorCrudPGSQL\BlazorCrudPGSQL\Shared\obj\Debug\netstandard2.1\BlazorCrudPGSQL.Shared.pdb
